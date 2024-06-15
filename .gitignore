@@ -1,0 +1,7 @@
+core.Microsft*
+core.mongo*
+core.python*
+env.py
+__pychache__/
+*.py[cod]
+node_modules/
